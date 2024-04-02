@@ -1,24 +1,24 @@
 [submodule "packages/etherws"]
 	path = packages/etherws
-	url = git@github.com:AyoubMokhtarii/etherws.git
+	url = https://github.com/AyoubMokhtarii/etherws.git
 [submodule "packages/pyroute2"]
 	path = packages/pyroute2
-	url = git@github.com:AyoubMokhtarii/pyroute2.git
+	url = https://github.com/AyoubMokhtarii/pyroute2.git
 [submodule "packages/scapy"]
 	path = packages/scapy
-	url = git@github.com:AyoubMokhtarii/scapy.git
+	url = https://github.com/AyoubMokhtarii/scapy.git
 [submodule "src/pynat"]
 	path = src/pynat
-	url = git@github.com:AyoubMokhtarii/pynat.git
+	url = https://github.com/AyoubMokhtarii/pynat.git
 [submodule "src/srv6pm-delay-measurement"]
 	path = src/srv6pm-delay-measurement
-	url = git@github.com:AyoubMokhtarii/srv6pm-delay-measurement.git
+	url = https://github.com/AyoubMokhtarii/srv6pm-delay-measurement.git
 [submodule "src/srv6-sdn-authentication"]
 	path = src/srv6-sdn-authentication
-	url = git@github.com:AyoubMokhtarii/srv6-sdn-authentication.git
+	url = https://github.com/AyoubMokhtarii/srv6-sdn-authentication.git
 [submodule "src/srv6-sdn-data-plane"]
 	path = src/srv6-sdn-data-plane
-	url = git@github.com:AyoubMokhtarii/srv6-sdn-data-plane.git
+	url = https://github.com/AyoubMokhtarii/srv6-sdn-data-plane.git
 [submodule "src/srv6-sdn-proto"]
 	path = src/srv6-sdn-proto
-	url = git@github.com:AyoubMokhtarii/srv6-sdn-proto.git
+	url = https://github.com/AyoubMokhtarii/srv6-sdn-proto.git
